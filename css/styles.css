@@ -1,0 +1,27 @@
+body {
+  color: #E4E9BE;
+  margin: 0;
+}
+
+h1 {
+  color: #A2B38B;
+  font-family: 'Libre Baskerville', serif;
+}
+
+h3 {
+  color: #A2B38B;
+  font-family: 'Libre Baskerville', serif;
+}
+
+li {
+  color: black;
+}
+
+.gab:hover {
+  background-color: gold;
+  font-family: 'Anek Bangla', sans-serif;
+}
+
+.gabcenter {
+  padding-left: 650px;
+}
